@@ -203,9 +203,9 @@ P[ 38]( 55:8) : S45; # D76
 # In practice, it may be difficult to get color consistency at times if too bright or too dim
 #
 # Defaults to 6% brightness, white
-STLcdBacklightRed   = 0x0FFF;
-STLcdBacklightGreen = 0x0FFF;
-STLcdBacklightBlue  = 0x0FFF;
+STLcdBacklightRed   = 0x2B53;
+STLcdBacklightGreen = 0x511D;
+STLcdBacklightBlue  = 0x3D09;
 
 # LCD Image Override
 #
@@ -245,18 +245,19 @@ STLcdNumber7Color => STLcdNumber7Color_define;
 STLcdNumber8Color => STLcdNumber8Color_define;
 STLcdNumber9Color => STLcdNumber9Color_define;
 
+
 # Brightness reduced to 75% and converted to 16-bit colour
 # <8-bit>/0xFF * 0xFFFF * 0.75
-STLcdNumber1Color = "0xA8A8, 0x2727, 0x1FA0"; # Taylor Swift's Lips  #E0342A
-STLcdNumber2Color = "0x4B4B, 0x8D8D, 0x34B5"; # Matrix Green         #64BC46
-STLcdNumber3Color = "0x0000, 0x8242, 0xB3F3"; # Smart Water Blue     #00ADEF
-STLcdNumber4Color = "0xF6F6, 0xA5A5, 0x4949"; # Fanta Orange         #F6A549 (boosted to 100%)
-STLcdNumber5Color = "0xB7B7, 0x5D5D, 0x8545"; # Nicki Minaj Pink     #F47CB1
-STLcdNumber6Color = "0xBCFC, 0xB6F6, 0x2D2D"; # Iowa Corn Yellow     #FBDF3C
-STLcdNumber7Color = "0x00C1, 0x7E7E, 0x3C3C"; # Sprite Green         #01A850
-STLcdNumber8Color = "0x8303, 0x1394, 0xB9F9"; # Fanta Purple         #AE1AF7
+STLcdNumber1Color = "0x8A8A, 0x1818, 0x8E4D"; # #B820BD
+STLcdNumber2Color = "0x80C0, 0x22A2, 0x22A2"; # #AB2E2E
+STLcdNumber3Color = "0xBFFF, 0x0C0C, 0x0242"; # #FF1003
+STLcdNumber4Color = "0x1BDB, 0x8E4D, 0x1818"; # #25BD20
+STLcdNumber5Color = "0x22A2, 0x80C0, 0x80C0"; # #2EABAB
+STLcdNumber6Color = "0x0242, 0xB635, 0xBFFF"; # #03F2FF
+STLcdNumber7Color = "0xBFFF, 0x6AEA, 0x0242"; # #FF8E03
+STLcdNumber8Color = "0xBFFF, 0x0242, 0x5757"; # #FF0374
 STLcdNumber9Color = "0x09CA, 0x12D3, 0x8484"; # Red Bull Blue        #0D19B0
-STLcdNumber0Color = "0xB939, 0xAAEA, 0x8D8D"; # Butter Cow Off-white #F6E3BC
+STLcdNumber0Color = "0x5151, 0x9187, 0x7271"; # Medpace Green        #6CCA98
 
 
 # Basic 32x32 numbers used to display layer stack
