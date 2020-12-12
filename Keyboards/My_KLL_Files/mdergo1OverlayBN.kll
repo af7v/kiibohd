@@ -15,17 +15,17 @@ Date = 2015-09-20;
 ### Left Hand ###
 
 U"Esc" : LayerLock[6];
-U"5" : LayerLock[1];
-U"4" : LayerLock[2];
-U"3" : LayerLatch[3];
-U"2" : LayerLock[4];
-U"1" : LayerLatch[5];
+U"5" : LayerLock[1]; # Unused for now.. 
+U"4" : LayerLock[5]; # Left Hand SM Roles 
+U"3" : LayerLatch[3]; # Basic Email Macros
+U"2" : LayerLock[4]; # Function Keys
+U"1" : LayerLock[2]; # Number Pad on Right hand
 U"Equals" : U"Esc";
 
 U"Backslash" : U"Tab";
 U"Tab" : U"CapsLock";
 
-U"Function1" : U"Ctrl" + U"LShift" + U"S";
+U"Function1" : U"LGui" + U"LShift" + U"S";
 U"Function2" : U"LCtrl" + U"B";
 
 U"Function5" : U"Left Shift";
@@ -38,7 +38,7 @@ U"Backtick" : CONS"BrightnessDecrement";
 
 # Top Row
 U"Function6" : U"Esc"
-U"6" : LayerLock[1];
+U"6" : LayerLatch[1];
 U"7" : LayerLatch[2];
 U"8" : LayerLatch[3];
 U"9" : LayerLatch[4];

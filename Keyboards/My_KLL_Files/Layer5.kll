@@ -8,14 +8,17 @@ KLL = 0.5.7.11;
 # Modified Date
 Date = 2020-12-12;
 
-U"S" : 'Sponsor';
-U"I" : 'IVRS-PC';
-U"M" : 'IVRS-PM';
-U"P" : 'PC';
-U"R" : 'CRA';
+U"C" : U"LCtrl" + U"C";
+U"V" : U"LCtrl" + U"V";
+U"X" : U"LCtrl" + U"X";
 U"T" : 'CTM';
-U"U" : 'Unblinded';
-U"Q" : 'TMF-QC';
+U"R" : 'CRA';
 U"E" : 'Editor';
+U"S" : 'Sponsor';
+U"Q" : 'TMF-QC';
+U"W" : 'IVRS-PC';
+U"A" : 'Unblinded';
 U"F" : 'Editor-Feas';
 U"D" : 'CO-RegSub';
+U"G" : 'SPONSOR/CRA';
+U"B" : 'PC';
