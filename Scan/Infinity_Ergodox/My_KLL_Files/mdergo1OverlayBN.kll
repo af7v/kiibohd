@@ -37,8 +37,8 @@ U"Backtick" : CONS"BrightnessDecrement";
 ### Right Hand ###
 
 # Top Row
-U"Function6" : U"Esc"
-U"6" : LayerLatch[1];
+U"Function6" : U"NLayer";
+U"6" : U"PLayer";
 U"7" : LayerLatch[2];
 U"8" : LayerLatch[3];
 U"9" : LayerLatch[4];
