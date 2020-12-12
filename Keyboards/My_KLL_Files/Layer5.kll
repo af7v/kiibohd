@@ -1,0 +1,21 @@
+# Ergodox KLL Layer Base
+
+Name = "Infinity Ergodox Layer 5";
+Version = 0.3;
+Author = "Bert Nielson (2020)";
+KLL = 0.5.7.11;
+
+# Modified Date
+Date = 2020-12-12;
+
+U"S" : 'Sponsor';
+U"I" : 'IVRS-PC';
+U"M" : 'IVRS-PM';
+U"P" : 'PC';
+U"R" : 'CRA';
+U"T" : 'CTM';
+U"U" : 'Unblinded';
+U"Q" : 'TMF-QC';
+U"E" : 'Editor';
+U"F" : 'Editor-Feas';
+U"D" : 'CO-RegSub';

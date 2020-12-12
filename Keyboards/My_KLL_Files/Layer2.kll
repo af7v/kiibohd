@@ -1,0 +1,50 @@
+# Ergodox KLL Layer Base
+
+Name = "Infinity Ergodox Layer 2";
+Version = 0.2;
+Author = "Bert Nielson (2020)";
+KLL = 0.5.7.11;
+
+# Modified Date
+Date = 2020-12-08;
+
+# Assigns the number pad to the right hand
+
+
+### Left Hand ###
+
+# Top Row
+
+U"Equals" : flashMode();
+
+
+### Right Hand ###
+
+# Top Row
+U"7" : U"NumLock";
+U"8" : U"P/";
+U"9" : U"P*";
+U"0" : U"P-";
+
+# Top-Middle Row
+U"U" : U"P7";
+U"I" : U"P8";
+U"O" : U"P9";
+U"P" : U"P+";
+
+# Middle Row
+U"J" : U"P4";
+U"K" : U"P5";
+U"L" : U"P6";
+U"Semicolon" : U"P+";
+
+# Bottom-Middle Row
+U"M" : U"P1";
+U"," : U"P2";
+U"." : U"P3";
+U"/" : U"PEnter";
+
+# Bottom Row
+U"Down" : U"P0";
+U"Up" : U"P.";
+U"Right" : U"PEnter";

@@ -1,0 +1,61 @@
+Name = mdergo1Overlay;
+Version = 0.2;
+Author = "HaaTa (Jacob Alexander) 2015";
+KLL = 0.5.7.11;
+
+# Modified Date
+Date = 2015-09-20;
+
+# Make default layout more like the original ErgoDox default layout
+# https://keyboard-configurator.massdrop.com/ext/ergodox/
+#
+# The defaultMap.kll in BaseMap cannot have any duplicate keys (or they cannot be fully remapped later)
+# But, the DefaultMap can start to duplicate keys without any issues
+
+### Left Hand ###
+
+U"Esc" : LayerLock[6];
+U"5" : LayerLock[1];
+U"4" : LayerLock[2];
+U"3" : LayerLatch[3];
+U"2" : LayerLock[4];
+U"1" : LayerLatch[5];
+U"Equals" : U"Esc";
+
+U"Backslash" : U"Tab";
+U"Tab" : U"CapsLock";
+
+U"Function1" : U"Ctrl" + U"LShift" + U"S";
+U"Function2" : U"LCtrl" + U"B";
+
+U"Function5" : U"Left Shift";
+U"Function4" : U"LCtrl";
+U"Function3" : CONS"BrightnessIncrement";
+U"Backtick" : CONS"BrightnessDecrement";
+
+
+### Right Hand ###
+
+# Top Row
+U"Function6" : U"Esc"
+U"6" : LayerLock[1];
+U"7" : LayerLatch[2];
+U"8" : LayerLatch[3];
+U"9" : LayerLatch[4];
+U"0" : LayerLatch[5];
+U"Minus" : U"Backspace";
+
+# Top-Middle Row
+U"Left Brace" : U"LGui" + U"L";
+U"Right Brace" : U"Backslash";
+
+# Middle Row
+U"Quote" : U"Enter";
+
+# Bottom-Middle Row
+U"Function7" : U"LCtrl" + U"I";
+
+U"Left" : Layer[1];
+U"Down" : U"-";
+U"Up" : U"'";
+U"Right" : U"Enter";

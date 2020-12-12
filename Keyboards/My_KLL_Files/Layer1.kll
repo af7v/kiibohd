@@ -1,0 +1,80 @@
+# Ergodox KLL Layer Base
+
+Name = "Infinity Ergodox Layer 1 Left";
+Version = 0.2;
+Author = "Bert Nielson (2020)";
+KLL = 0.5.7.11;
+
+# Modified Date
+Date = 2020-12-08;
+
+### Left Hand ###
+
+
+# Top Row
+
+# Top-Middle Row
+U"Function1" : CONS0x06F;
+U"T" : '}';
+U"R" : '{';
+U"E" : U"Up";
+U"W" : '@';
+U"Q" : '!';
+
+# Middle Row
+U"G" : '$';
+U"F" : U"Right";
+U"D" : U"Down";
+U"S" : U"Left";
+U"A" : '#';
+
+# Top Thumb Cluster
+
+# Bottom-Middle Row
+U"Function2" : U"Shift" + U"LCtrl" + U"V"; # Linux Paste
+U"B" : '&';
+U"V" : ')';
+U"C" : '(';
+U"X" : U"]";
+U"Z" : U"[";
+
+# Bottom Thumb Cluster
+
+# Bottom Row
+
+
+### Right Hand ###
+
+# Top Row
+
+# Top-Middle Row
+U"Left Brace" : CONS0x070;
+U"Y" : '*';
+U"U" : U"7";
+U"I" : U"8";
+U"O" : U"9";
+U"P" : '+';
+
+# Middle Row
+U"H" : '^';
+U"J" : U"4";
+U"K" : U"5";
+U"L" : U"6";
+U"Semicolon" : U"-";
+
+# Top Thumb Cluster
+
+# Bottom-Middle Row
+U"Function7" : U"RCtrl" + U"Shift" + U"C"; # Linux Copy
+U"N" : U"`";
+U"M" : U"1";
+U"," : U"2";
+U"." : U"3";
+
+# Bottom Thumb Cluster
+
+# Bottom Row
+U"Down" : U"0";
+U"Up" : U".";
+U"Right" : U"=";
+

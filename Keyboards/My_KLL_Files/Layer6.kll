@@ -1,0 +1,77 @@
+# Ergodox KLL Layer Base
+
+Name = "Infinity Ergodox Layer 6";
+Version = 0.2;
+Author = "Bert Nielson (2020)";
+KLL = 0.5.7.11;
+
+# Modified Date
+Date = 2020-12-08;
+
+# Match the keycaps on the keyboard
+
+### Left Hand ###
+
+# Top Row
+U"Esc" : LayerLock[6];
+U"5" : U"5";
+U"4" : U"4";
+U"3" : U"3";
+U"2" : U"2";
+U"1" : U"1";
+U"Equals" : U"Esc";
+
+# Top-Middle Row
+U"Function1" : U"F1";
+# U"T";
+# U"R";
+# U"E";
+# U"W";
+# U"Q";
+U"Backslash" : U"Tab";
+
+# Middle Row
+# U"G";
+# U"F";
+# U"D";
+# U"S";
+# U"A";
+U"Tab" : U"CapsLock";
+
+# Bottom Row
+U"Function5" : U"LGui";
+U"Function4" : U"=";
+U"Function3" : U"`";
+U"Backtick" : CONS0x06F;
+U"LGui" : CONS0x70;
+
+
+### Right Hand ###
+
+# Top Row
+U"Function6" : U"Esc";
+U"6" : U"6";
+U"7" : U"7";
+U"8" : U"8";
+U"9" : U"9";
+U"0" : U"0";
+U"Minus" : U"Backspace";
+
+# Top-Middle Row
+U"Left Brace" : U"Volume Up";
+U"Right Brace" : U"Backslash";
+
+# Middle Row
+U"Quote" : U"Enter";
+
+# Bottom-Middle Row
+U"Function7" : U"Volume Down";
+
+# Bottom Row
+U"Left" : U"-";
+U"Down" : U"'";
+U"Up" : U"[";
+U"Right" : U"]";
+U"RGui" : U"\";
+
+

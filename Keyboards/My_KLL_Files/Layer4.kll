@@ -1,0 +1,53 @@
+# Ergodox KLL Layer Base
+
+Name = "Infinity Ergodox Layer 4";
+Version = 0.2;
+Author = "Bert Nielson (2020)";
+KLL = 0.5.7.11;
+
+# Modified Date
+Date = 2020-12-08;
+
+# Assigns function keys 1-12 across top
+# Assigns function keys 13-24 across next layer down
+
+
+### Left Hand ###
+
+# Top Row
+U"Esc" : U"F6";
+U"5" : U"F5";
+U"4" : U"F4";
+U"3" : U"F3";
+U"2" : U"F2";
+U"1" : U"F1";
+U"Equals" : LayerLock[4];
+
+# Top-Middle Row
+U"Function1" : U"F18";
+U"T" : U"F17";
+U"R" : U"F16";
+U"E" : U"F15";
+U"W" : U"F14";
+U"Q" : U"F13";
+# U"Tab";
+
+### Right Hand ###
+
+# Top Row
+U"Function6" : U"F7";
+U"6" : U"F8";
+U"7" : U"F9";
+U"8" : U"F10";
+U"9" : U"F11";
+U"0" : U"F12";
+U"Minus" : LayerLock[4];
+
+# Top-Middle Row
+U"Left Brace" : U"F19";
+U"Y" : U"F20";
+U"U" : U"F21";
+U"I" : U"F22";
+U"O" : U"F23";
+U"P" : U"F24";
+# U"Backslash";
