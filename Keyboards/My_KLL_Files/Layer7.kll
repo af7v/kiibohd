@@ -1,0 +1,19 @@
+# Ergodox KLL Layer Base
+
+Name = "Infinity Ergodox Layer 7";
+Version = 0.1;
+Author = "Bert Nielson (2020)";
+KLL = 0.5.7.11;
+
+# Modified Date
+Date = 2020-12-12;
+
+### Hotkeys for Teams Meetings ###
+
+U"F" : U"LCtrl" + U"LShift" + U"M"; # Mute
+U"D" : U"LCtrl" + U"LShift" + U"O"; # Turn Camera Off
+U"S" : U"LCtrl" + U"LShift" + U"E"; # Share Content
+U"A" : U"LCtrl" + U"LShift" + U"A"; # Accept Call
+U"B" : U"LCtrl" + U"LShift" + U"B"; # Leave Call
+U"C" : U"LCtrl" + U"LShift" + U"C"; # Start an Audio Call
+

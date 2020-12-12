@@ -15,7 +15,7 @@ Date = 2015-09-20;
 ### Left Hand ###
 
 U"Esc" : LayerLock[6];
-U"5" : LayerLock[1]; # Unused for now.. 
+U"5" : LayerLock[7]; # Microsoft Teams 
 U"4" : LayerLock[5]; # Left Hand SM Roles 
 U"3" : LayerLatch[3]; # Basic Email Macros
 U"2" : LayerLock[4]; # Function Keys

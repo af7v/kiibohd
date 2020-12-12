@@ -16,15 +16,16 @@ Date = 2020-12-08;
 # Top-Middle Row
 U"T" : 'Thanks,';
 U"W" : 'Warm Regards,';
-U"R" : 'Regards';
+U"R" : 'Regards,';
 
 # Middle Row
-U"F" : 'Nielson';
-U"G" : 'Bert';
+U"G" : 'Nielson';
+U"F" : 'Bert';
 
 # Bottom-Middle Row
 U"V" : 'b.nielson@medpace.com';
 U"B" : 'b.nielson@medpace.medpace.com';
+U"C" : 'ClinTrak';
 
 
 
