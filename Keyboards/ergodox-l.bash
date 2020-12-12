@@ -29,7 +29,7 @@ BaseMap="scancode_map_medpace leftHand slave1 rightHand"
 # This is the default layer of the keyboard
 # NOTE: To combine kll files into a single layout, separate them by spaces
 # e.g.  DefaultMap="mylayout mylayoutmod"
-DefaultMap="infinity_ergodox/all-leds infinity_ergodox/lcdFuncMap infinity_ergodox/mdergo1OverlayBN"
+DefaultMap="infinity_ergodox/all-leds infinity_ergodox/lcdFuncMap My_KLL_Files/mdergo1OverlayBN"
 
 # This is where you set the additional layers
 # NOTE: Indexing starts at 1
@@ -37,12 +37,13 @@ DefaultMap="infinity_ergodox/all-leds infinity_ergodox/lcdFuncMap infinity_ergod
 # e.g.  PartialMaps[1]="layer1 layer1mod"
 #       PartialMaps[2]="layer2"
 #       PartialMaps[3]="layer3"
-PartialMaps[1]="infinity_ergodox/Layer1"
-PartialMaps[2]="infinity_ergodox/Layer2"
-PartialMaps[3]="infinity_ergodox/Layer3"
-PartialMaps[4]="infinity_ergodox/Layer4"
-PartialMaps[5]="infinity_ergodox/Layer5"
-PartialMaps[6]="infinity_ergodox/Layer6"
+PartialMaps[1]="My_KLL_Files/Layer1"
+PartialMaps[2]="My_KLL_Files/Layer2"
+PartialMaps[3]="My_KLL_Files/Layer3"
+PartialMaps[4]="My_KLL_Files/Layer4"
+PartialMaps[5]="My_KLL_Files/Layer5"
+PartialMaps[6]="My_KLL_Files/Layer6"
+PartialMaps[7]="My_KLL_Files/Layer7"
 
 
 
