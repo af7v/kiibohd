@@ -248,13 +248,13 @@ STLcdNumber9Color => STLcdNumber9Color_define;
 
 # Brightness reduced to 75% and converted to 16-bit colour
 # <8-bit>/0xFF * 0xFFFF * 0.75
-STLcdNumber1Color = "0x8A8A, 0x1818, 0x8E4D"; # #B820BD
-STLcdNumber2Color = "0x80C0, 0x22A2, 0x22A2"; # #AB2E2E
-STLcdNumber3Color = "0xBFFF, 0x0C0C, 0x0242"; # #FF1003
-STLcdNumber4Color = "0x1BDB, 0x8E4D, 0x1818"; # #25BD20
-STLcdNumber5Color = "0x22A2, 0x80C0, 0x80C0"; # #2EABAB
-STLcdNumber6Color = "0x0242, 0xB635, 0xBFFF"; # #03F2FF
-STLcdNumber7Color = "0xBFFF, 0x6AEA, 0x0242"; # #FF8E03
+STLcdNumber1Color = "0x6BAB, 0x0484, 0xBFFF"; # Violet 
+STLcdNumber2Color = "0x8C0B, 0x4484, 0x2F6F"; # Tangerine
+STLcdNumber3Color = "0xBFFF, 0x0484, 0x0484"; # Nice Red
+STLcdNumber4Color = "0x2E2E, 0x3030, 0x4FCF"; # Purple Gray
+STLcdNumber5Color = "0x0000, 0x2C2C, 0x4D4D"; # Vibrant Cyan
+STLcdNumber6Color = "0x7332, 0x0000, 0x0CCC"; # Reddish Magenta
+STLcdNumber7Color = "0x5393, 0x6DED, 0x52D2"; # Yellow White
 STLcdNumber8Color = "0xBFFF, 0x0242, 0x5757"; # #FF0374
 STLcdNumber9Color = "0x09CA, 0x12D3, 0x8484"; # Red Bull Blue        #0D19B0
 STLcdNumber0Color = "0x5151, 0x9187, 0x7271"; # Medpace Green        #6CCA98
