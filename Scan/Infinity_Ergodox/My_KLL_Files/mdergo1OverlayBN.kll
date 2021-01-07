@@ -30,15 +30,17 @@ U"Function2" : U"LCtrl" + U"B";
 
 U"Function5" : U"Left Shift";
 U"Function4" : U"LCtrl";
-U"Function3" : CONS"BrightnessIncrement";
+U"Function3" : U"LAlt";
 U"Backtick" : CONS"BrightnessDecrement";
 
+U"LAlt" : U"NLayer";
+U"LCtrl": U"PLayer";
 
 ### Right Hand ###
 
 # Top Row
-U"Function6" : U"NLayer";
-U"6" : U"PLayer";
+U"Function6" : LayerLatch[6];
+U"6" : LayerLatch[7];
 U"7" : LayerLatch[2];
 U"8" : LayerLatch[3];
 U"9" : LayerLatch[4];

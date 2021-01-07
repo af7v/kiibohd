@@ -1,19 +1,24 @@
 # Ergodox KLL Layer Base
 
 Name = "Infinity Ergodox Layer 7";
-Version = 0.1;
+Version = 0.2;
 Author = "Bert Nielson (2020)";
 KLL = 0.5.7.11;
 
 # Modified Date
-Date = 2020-12-12;
+Date = 2021-01-06;
 
-### Hotkeys for Teams Meetings ###
+### Left Hand for ClinTrak Lab ###
 
-U"F" : U"LCtrl" + U"LShift" + U"M"; # Mute
-U"D" : U"LCtrl" + U"LShift" + U"O"; # Turn Camera Off
-U"S" : U"LCtrl" + U"LShift" + U"E"; # Share Content
-U"A" : U"LCtrl" + U"LShift" + U"A"; # Accept Call
-U"B" : U"LCtrl" + U"LShift" + U"B"; # Leave Call
-U"C" : U"LCtrl" + U"LShift" + U"C"; # Start an Audio Call
-
+U"X" : U"Ctrl" + U"X";
+U"C" : U"Ctrl" + U"C";
+U"V" : U"Ctrl" + U"V";
+U"A" : U"End";
+U"S" : 'SPONSOR/CRO';
+U"D" : U"Enter", U"Tab", U"Enter";
+U"F" : U"S";
+U"G" : U"S", U"Up";
+U"E" : 'ext_';
+U"R" : 'spn_';
+U"T" : 'medpace', U"Enter";
+U"Function5" : Layer[0];

@@ -1,12 +1,12 @@
 # Ergodox KLL Layer Base
 
 Name = "Infinity Ergodox Layer 5";
-Version = 0.3;
+Version = 0.4;
 Author = "Bert Nielson (2020)";
 KLL = 0.5.7.11;
 
 # Modified Date
-Date = 2020-12-12;
+Date = 2021-01-06;
 
 U"C" : U"LCtrl" + U"C";
 U"V" : U"LCtrl" + U"V";
@@ -16,11 +16,11 @@ U"R" : 'CRA';
 U"E" : 'Editor';
 U"S" : 'Sponsor';
 U"Q" : 'TMF-QC';
-U"W" : 'IVRS-PC';
+U"W" : 'IVRS';
 U"A" : 'Unblinded';
 U"F" : 'Editor-Feas';
 U"D" : 'CO-RegSub';
-U"G" : 'SPONSOR/CRA';
+#U"G" : '';
 U"B" : 'PC';
 U"Function5" : 'Medpace';
 U"Function4" : Layer[0];
