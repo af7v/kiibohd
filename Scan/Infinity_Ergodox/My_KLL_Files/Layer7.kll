@@ -21,4 +21,4 @@ U"G" : U"S" (R:300 ms), U"Up";
 U"E" : 'ext_';
 U"R" : 'spn_';
 U"Function5" : 'medpace' (R:300 ms), U"Enter";
-U"Function3" : LayerLock[8];
+U"Function3" : LayerLock[7], LayerLock[8];
