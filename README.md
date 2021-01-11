@@ -1,8 +1,10 @@
+This is Bert Nielson's copy of the Kiibohd firmware. There are a number of changes I have made to the source. Please go to the links below to get the originals for your own usage.
+
+
 The Kiibohd Controller
 ======================
 
 This is the main Kiibohd Firmware.
-In general, this should be the **only** git repo you need to clone.
 The [KLL](https://github.com/kiibohd/kll) compiler is automatically retrieved during the build process and will warn you if your KLL compiler is too old.
 
 Please refer to the [KLL](https://github.com/kiibohd/kll) repo or [kiibohd.com](http://kiibohd.com) for details on the KLL (Keyboard Layout Language) Spec.
