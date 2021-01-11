@@ -10,5 +10,5 @@ Date = 2020-12-12;
 
 ### Default Layer ###
 
-U"Function3" : LayerLock[7];
+U"Function3" : LayerLock[8], LayerLock[7];
 
