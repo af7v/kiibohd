@@ -14,8 +14,8 @@ U"X" : U"Ctrl" + U"X";
 U"C" : U"Ctrl" + U"C";
 U"V" : U"Ctrl" + U"V";
 U"A" : U"End";
-U"S" : 'SPONSOR/CRO';
-U"D" : U"S";
+U"S" : 'SPONSOR/CRO', U"Enter";
+U"D" : U"S", U"Enter";
 U"F" : U"Enter";
 U"G" : U"Tab"
 U"E" : U"S", U"Up";
