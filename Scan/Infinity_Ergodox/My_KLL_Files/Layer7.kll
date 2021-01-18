@@ -15,10 +15,11 @@ U"C" : U"Ctrl" + U"C";
 U"V" : U"Ctrl" + U"V";
 U"A" : U"End";
 U"S" : 'SPONSOR/CRO';
-U"D" : U"Enter" (R:300 ms), U"Tab" (R:300 ms), U"Enter";
-U"F" : U"S";
-U"G" : U"S" (R:300 ms), U"Up";
-U"E" : 'ext_';
+U"D" : U"S";
+U"F" : U"Enter";
+U"G" : U"Tab"
+U"E" : U"S", U"Up";
 U"R" : 'spn_';
-U"Function5" : 'medpace' (R:300 ms), U"Enter";
-U"Function3" : LayerLock[8];
+U"T" : 'ext_';
+U"Function5" : 'medpace', U"Enter";
+U"Function3" : LayerLock[7], LayerLock[8];
