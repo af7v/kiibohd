@@ -10,9 +10,6 @@ Date = 2020-12-12;
 
 ### Default Layer ###
 
-<<<<<<< HEAD
-U"Function3" : LayerLock[8];
-=======
 U"Function3" : LayerLock[8], LayerLock[7];
->>>>>>> aab876748ddfe8e275d6c50fc64606da5db42fec
+
 
