@@ -17,7 +17,7 @@ U"A" : U"End";
 U"S" : 'SPONSOR/CRO', U"Enter";
 U"D" : U"S", U"Enter";
 U"F" : U"Enter";
-U"G" : U"Tab"
+U"G" : U"Tab";
 U"E" : U"S", U"Up";
 U"R" : 'spn_';
 U"T" : 'ext_';
