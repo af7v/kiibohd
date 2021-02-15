@@ -10,7 +10,7 @@ Date = 2021-01-06;
 
 U"C" : U"LCtrl" + U"C";
 U"V" : U"LCtrl" + U"V";
-U"X" : U"LCtrl" + U"X";
+U"X" : U"Enter";
 U"T" : 'CTM';
 U"R" : 'CRA';
 U"E" : 'Editor';
